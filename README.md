@@ -110,7 +110,7 @@ docker compose up -d --build
 
 ## 🔐 Authentication
 
-- JWT-based authentication is implemented  
+- JWT-based authentication is implemented 
 - Public endpoints:  
   - `/auth/**`  
   - `/swagger-ui/**`  
