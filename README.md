@@ -4,7 +4,6 @@ TradeFlow is a backend system that simulates real-world **Trade Finance workflow
 It demonstrates how trades are created, processed, and settled asynchronously using **Apache Kafka**.
 
 ---
-
 ## 📌 Features
 
 - ✅ Trade creation via REST API
